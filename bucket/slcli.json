@@ -1,12 +1,12 @@
 {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "description": "SystemLink Integrator CLI",
     "homepage": "https://github.com/ni-kismet/systemlink-cli",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ni-kismet/systemlink-cli/releases/download/v1.4.1/slcli.zip",
-            "hash": "0C3F72F2F46F55582DEEBF6D05733C8AA4E06778DF429EF98B974C7C3DFF23A2"
+            "url": "https://github.com/ni-kismet/systemlink-cli/releases/download/v1.4.2/slcli.zip",
+            "hash": "76733F632A723543559C26CA53FA80F6F5DE67930F0AFEC08F36E5E46EF95A2B"
         }
     },
     "extract_dir": "slcli",
